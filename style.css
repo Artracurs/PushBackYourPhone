@@ -1,0 +1,18 @@
+a {
+color: black;
+font-style: italic;
+font-size: 2Spt;
+}
+
+h1{
+    color: red;
+}
+
+#sec {
+    color: black;
+}
+
+#test {
+    font-size: 20px;
+    color: black;
+}
